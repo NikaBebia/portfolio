@@ -63,3 +63,10 @@ footer {
     color: white;
     text-decoration: none;
 }
+
+.text4 {
+    margin: 0 100px;
+}
+.solidtext {
+    font-weight: bold;
+}
