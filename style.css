@@ -64,6 +64,11 @@ footer {
     text-decoration: none;
 }
 
+.text4 {
+    margin: 0 100px;
+}
+.solidtext {
+    font-weight: bold;
 .text3 {
     margin: 0 100px;
 }
