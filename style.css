@@ -63,3 +63,11 @@ footer {
     color: white;
     text-decoration: none;
 }
+
+.text3 {
+    margin: 0 100px;
+}
+
+.text3 p {
+    margin-bottom: 20px;
+}
