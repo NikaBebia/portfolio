@@ -2,3 +2,64 @@
     padding: 0;
     margin: 0;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    background-color: beige;
+}
+
+.logo {
+    height: 40px;
+}
+
+header {
+    padding: 20px;
+}
+
+footer {
+    background-color: black;
+    padding: 0 30px;
+}
+
+.headermenu {
+    max-width: 1240px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.navigation ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+.navigation li a {
+    color: #000;
+    text-decoration: none;
+}
+
+.footermenu {
+    max-width: 1240px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 20px auto;
+}
+
+.footernavigation ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 10px;
+}
+
+.footernavigation li a {
+    color: white;
+    text-decoration: none;
+}
