@@ -67,14 +67,11 @@ footer {
 .text4 {
     margin: 0 100px;
 }
+
 .solidtext {
     font-weight: bold;
-.text3 {
-    margin: 0 100px;
 }
 
-.text3 p {
-    margin-bottom: 20px;
 .container1 {
     display: flex;
     flex-direction: center;
@@ -103,4 +100,12 @@ footer {
     text-align: left;
     gap: 20px;
     margin: 0 100px;    
+}
+
+.text3 {
+    margin: 0 100px;
+}
+
+.text3 p {
+    margin-bottom: 20px;
 }
