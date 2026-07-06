@@ -70,4 +70,32 @@ footer {
 
 .text3 p {
     margin-bottom: 20px;
+.container1 {
+    display: flex;
+    flex-direction: center;
+    text-align: center;
+    justify-content: space-between;
+    gap: 20px;
+    height: 400px;
+    margin: 20px;
+    padding: 0 50px;
+}
+
+.mypic {
+    border-radius: 40px;
+}
+
+.text1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 20px;
+}
+
+.text2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 20px;
+    margin: 0 100px;    
 }
